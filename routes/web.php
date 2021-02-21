@@ -13,6 +13,7 @@
 //LP獲得用
 Route::get('special', function () {
     return view('fb.cccheck'); //LP提出用
+    // return view('fb.job'); //獲得LP(1)
 });
 
 //OS識別
