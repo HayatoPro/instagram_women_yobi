@@ -9,7 +9,7 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <a href="./os"><img src="{{ asset('image/header-2-2.png') }}"></a>
+        <!--<a href="./os"><img src="{{ asset('image/header-2-2.png') }}"></a>-->
         <img src="{{ asset('image/jobManga_1.png') }}">
         <img src="{{ asset('image/jobManga_2.png') }}">
         <div class="white">
