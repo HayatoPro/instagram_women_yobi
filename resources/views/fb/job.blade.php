@@ -13,7 +13,7 @@
         <img src="{{ asset('image/jobManga_1.png') }}">
         <img src="{{ asset('image/jobManga_2.png') }}">
         <div class="white">
-            <a href="./os"><img src="{{ asset('image/lp_instagram_job.png') }}"></a>
+            <a href="./os"><img src="{{ asset('image/popo-2.jpg') }}"></a>
             <div class="body-button">
                 <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>※リンク切れの場合、募集停止している場合がございます。</p>
